@@ -1,0 +1,22 @@
+{
+  "name": "node_express_mozilla",
+  "version": "1.0.0",
+  "description": "test repo for express in node using the mozilla guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucflumm/node_express_mozilla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucflumm/node_express_mozilla/issues"
+  },
+  "homepage": "https://github.com/ucflumm/node_express_mozilla#readme",
+  "dependencies": {
+    "expresss": "^0.0.0"
+  }
+}
